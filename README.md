@@ -82,7 +82,7 @@ Sample in text:	{txt:{tx1:{id:111,tx:”sample text here”,s:24,x:50,y:75,w:400
 
 Coding Guide:
 You can download the sample app through the link:
-Asdfasdf
+https://github.com/Cognitive-AI-Tech/ProjectNSample
 Attention:
 For better user experience, you need to use a time scheduled handler to remove the notification in the notification center in a very short time, e.g. 100ms.
 
